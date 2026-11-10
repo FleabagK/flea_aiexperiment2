@@ -32,10 +32,6 @@ SearchAlgorithms/
 ├── experiments/
 │   └── treasure_order_experiment.py  # 综合题节点访问顺序对照实验
 │
-├── results/
-│   ├── data/                  # 实验数据
-│   └── figures/               # 实验图表
-│
 ├── report/                    # 实验报告
 │
 ├── README.md
